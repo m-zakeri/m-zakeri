@@ -1,6 +1,7 @@
-### Hi there 👋
 
 <!--
+# Welcome 👋
+
 **m-zakeri/m-zakeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Morteza's Coding Hall
+
+I like domain-independent problem-solving from a **Computer Engineering (CE)** perspective.
+Complex real-life problems could be simplified and solved through various thinking paradigms: systematic thinking, abstract thinking, computational thinking, data thinking, network thinking, and eventually, what I call, reverse computational thinking. 
+I like devising new thinking paradigms, problem-solving methods, and complexity engineering. 
+
+⚡[READ MORE](https://m-zakeri.github.io/) | [Explore My RESEARCH](https://m-zakeri.github.io/pages/research.html) | [Explore My TEACHING](https://m-zakeri.github.io/category/courses.html)
