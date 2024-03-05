@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 # Morteza's Coding Hall
 
-I like domain-independent problem-solving from a **Computer Engineering (CE)** perspective.
+I enjoy domain-independent problem-solving from a **Computer Engineering (CE)** perspective.
+I like devising new thinking paradigms, problem-solving methods, and systems for complexity engineering. 
 Complex real-life problems could be simplified and solved through various thinking paradigms: systematic thinking, abstract thinking, computational thinking, data thinking, network thinking, and eventually, what I call, reverse computational thinking. 
-I like devising new thinking paradigms, problem-solving methods, and complexity engineering. 
 
-⚡[READ MORE](https://m-zakeri.github.io/) | [Explore My RESEARCH](https://m-zakeri.github.io/pages/research.html) | [Explore My TEACHING](https://m-zakeri.github.io/category/courses.html)
+
+⚡[READ MORE](https://m-zakeri.github.io/) | [Explore My RESEARCH](https://m-zakeri.github.io/pages/research.html) | [Explore My TEACHING](https://m-zakeri.github.io/category/courses.html) | [My PhD in a nutshell](https://m-zakeri.github.io/PhD/) | [For CE students ](http://webpages.iust.ac.ir/morteza_zakeri/repo/iust_course_materials/index.html) 
