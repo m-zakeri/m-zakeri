@@ -1,6 +1,9 @@
-
+<div style="text-align: center;">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Morteza's%20Coding%20Hall&animation=twinkling&descAlign=45&textBg=false&fontColor=balck" />
+  </div>
 <!--
 # Welcome 👋
+# Morteza's Coding Hall
 
 **m-zakeri/m-zakeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Morteza's Coding Hall
+
 
 I enjoy domain-independent problem-solving from a **Computer Engineering (CE)** perspective.
 I like devising new thinking paradigms, problem-solving methods, and systems for complexity engineering. 
