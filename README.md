@@ -26,4 +26,4 @@ I like devising new thinking paradigms, problem-solving methods, and systems for
 Complex real-life problems could be simplified and solved through various thinking paradigms: systematic thinking, abstract thinking, computational thinking, data thinking, network thinking, and eventually, what I call, reverse computational thinking. 
 
 
-⚡[READ MORE](https://m-zakeri.github.io/) | [Explore My RESEARCH](https://m-zakeri.github.io/pages/research.html) | [Explore My TEACHING](https://m-zakeri.github.io/category/courses.html) | [My PhD in a nutshell](https://m-zakeri.github.io/PhD/) | [For CE students ](http://webpages.iust.ac.ir/morteza_zakeri/repo/iust_course_materials/index.html) 
+⚡[READ MORE](https://m-zakeri.github.io/) | [Explore My RESEARCH](https://m-zakeri.github.io/pages/research.html) | [Explore My TEACHING](https://m-zakeri.github.io/list-of-my-teaching-courses.html#list-of-my-teaching-courses) | [My PhD in a nutshell](https://m-zakeri.github.io/PhD/) | [For CE students ](http://webpages.iust.ac.ir/morteza_zakeri/repo/iust_course_materials/index.html) 
