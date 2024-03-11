@@ -1,6 +1,7 @@
 <div style="text-align: center;">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Morteza's%20Coding%20Hall&animation=twinkling&descAlign=45&textBg=false&fontColor=balck" />
-  </div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Morteza's%20Coding%20Hall&animation=twinkling&descAlign=45&textBg=false&fontColor=balck" />
+</div>
+
 <!--
 # Welcome 👋
 # Morteza's Coding Hall
@@ -18,8 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 
 
 I enjoy domain-independent problem-solving from a **Computer Engineering (CE)** perspective.
