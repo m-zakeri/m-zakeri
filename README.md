@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-I enjoy domain-independent problem-solving from a **Computer Engineering (CE)** perspective.
+I enjoy domain-independent problem-solving from **Computer Science (CS)** perspective.
 I like devising new thinking paradigms, problem-solving methods, and systems for complexity engineering. 
 Complex real-life problems could be simplified and solved through various thinking paradigms: systematic thinking, abstract thinking, computational thinking, data thinking, network thinking, and eventually, what I call, reverse computational thinking. 
 
