@@ -1,23 +1,4 @@
-<style>
-        .github-button {
-            display: inline-block;
-            padding: 10px 15px;
-            margin: 5px;
-            font-size: 16px;
-            font-weight: bold;
-            text-align: center;
-            text-decoration: none;
-            background-color: #2ea44f;
-            color: white;
-            border-radius: 6px;
-            border: 1px solid #1b8833;
-            transition: background-color 0.3s ease;
-        }
-        .github-button:hover {
-            background-color: #1b8833;
-        }
-</style>
-
+ 
 
 <div style="text-align: center;">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Morteza's%20Coding%20Hall&animation=twinkling&descAlign=45&textBg=false&fontColor=balck" />
@@ -41,15 +22,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+## Welcome
 I enjoy domain-independent problem-solving from **Computer Science (CS)** perspective.
 I like devising new thinking paradigms, problem-solving methods, and systems for complexity engineering. 
-Complex real-life problems could be simplified and solved through various thinking paradigms: systematic thinking, abstract thinking, computational thinking, data thinking, network thinking, and eventually, what I call reverse computational thinking. 
+Complex real-life problems could be simplified and solved through various thinking paradigms: systematic thinking, abstract thinking, computational thinking, data thinking, network thinking, and eventually, what I call reverse computational thinking.
 
-    <a href="https://m-zakeri.github.io/" class="github-button">READ MORE</a>
-    <a href="https://m-zakeri.github.io/pages/research.html" class="github-button">Explore My RESEARCH</a>
-    <a href="https://m-zakeri.github.io/list-of-my-teaching-courses.html#list-of-my-teaching-courses" class="github-button">Explore My TEACHING</a>
-    <a href="https://m-zakeri.github.io/PhD/" class="github-button">My PhD in a nutshell</a>
-    <a href="http://webpages.iust.ac.ir/morteza_zakeri/repo/iust_course_materials/index.html" class="github-button">For CE students</a>
-
+### 📌 Useful Links
+[![Read More](https://img.shields.io/badge/-READ%20MORE-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://m-zakeri.github.io/)  
+[![Explore My Research](https://img.shields.io/badge/-Explore%20My%20RESEARCH-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://m-zakeri.github.io/pages/research.html)  
+[![Explore My Teaching](https://img.shields.io/badge/-Explore%20My%20TEACHING-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://m-zakeri.github.io/list-of-my-teaching-courses.html#list-of-my-teaching-courses)  
+[![My PhD in a Nutshell](https://img.shields.io/badge/-My%20PhD%20in%20a%20nutshell-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://m-zakeri.github.io/PhD/)  
+[![For CE Students](https://img.shields.io/badge/-For%20CE%20students-2ea44f?style=for-the-badge&logo=github&logoColor=white)](http://webpages.iust.ac.ir/morteza_zakeri/repo/iust_course_materials/index.html)  
+    
 ⚡[READ MORE](https://m-zakeri.github.io/) | [Explore My RESEARCH](https://m-zakeri.github.io/pages/research.html) | [Explore My TEACHING](https://m-zakeri.github.io/list-of-my-teaching-courses.html#list-of-my-teaching-courses) | [My PhD in a nutshell](https://m-zakeri.github.io/PhD/) | [For CE students ](http://webpages.iust.ac.ir/morteza_zakeri/repo/iust_course_materials/index.html) 
