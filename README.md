@@ -28,10 +28,13 @@ I like devising new thinking paradigms, problem-solving methods, and systems for
 Complex real-life problems could be simplified and solved through various thinking paradigms: systematic thinking, abstract thinking, computational thinking, data thinking, network thinking, and eventually, what I call reverse computational thinking.
 
 ### 📌 Useful Links
-[![Read More](https://img.shields.io/badge/-READ%20MORE-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://m-zakeri.github.io/)  
-[![Explore My Research](https://img.shields.io/badge/-Explore%20My%20RESEARCH-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://m-zakeri.github.io/pages/research.html)  
-[![Explore My Teaching](https://img.shields.io/badge/-Explore%20My%20TEACHING-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://m-zakeri.github.io/list-of-my-teaching-courses.html#list-of-my-teaching-courses)  
-[![My PhD in a Nutshell](https://img.shields.io/badge/-My%20PhD%20in%20a%20nutshell-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://m-zakeri.github.io/PhD/)  
-[![For CE Students](https://img.shields.io/badge/-For%20CE%20students-2ea44f?style=for-the-badge&logo=github&logoColor=white)](http://webpages.iust.ac.ir/morteza_zakeri/repo/iust_course_materials/index.html)  
-    
+
+[![Read More](https://img.shields.io/badge/READ%20MORE-blue?style=for-the-badge&logo=bookstack&logoColor=white)](https://m-zakeri.github.io/) 
+[![Explore My Research](https://img.shields.io/badge/Explore%20My%20RESEARCH-darkgreen?style=for-the-badge&logo=academia&logoColor=white)](https://m-zakeri.github.io/pages/research.html) 
+[![Explore My Teaching](https://img.shields.io/badge/Explore%20My%20TEACHING-orange?style=for-the-badge&logo=chalkboard-teacher&logoColor=white)](https://m-zakeri.github.io/list-of-my-teaching-courses.html#list-of-my-teaching-courses) 
+[![My PhD in a Nutshell](https://img.shields.io/badge/My%20PhD%20in%20a%20nutshell-purple?style=for-the-badge&logo=brain&logoColor=white)](https://m-zakeri.github.io/PhD/) 
+[![For CE Students](https://img.shields.io/badge/For%20CE%20students-red?style=for-the-badge&logo=graduation-cap&logoColor=white)](http://webpages.iust.ac.ir/morteza_zakeri/repo/iust_course_materials/index.html) 
+
+
+
 ⚡[READ MORE](https://m-zakeri.github.io/) | [Explore My RESEARCH](https://m-zakeri.github.io/pages/research.html) | [Explore My TEACHING](https://m-zakeri.github.io/list-of-my-teaching-courses.html#list-of-my-teaching-courses) | [My PhD in a nutshell](https://m-zakeri.github.io/PhD/) | [For CE students ](http://webpages.iust.ac.ir/morteza_zakeri/repo/iust_course_materials/index.html) 
